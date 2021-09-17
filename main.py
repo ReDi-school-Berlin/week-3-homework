@@ -6,7 +6,9 @@
 ###############################
 
 
-# Exercise 1.) ERRORS ENCOUNTERED  
+# BONUS EXERCISE - ERRORS ENCOUNTERED   
+# This exercise is optional. The more errors you get familiar with, the better. That means you are adding to what you are learning from the lessons. "Practice makes perfect".
+# Also, teachers will know the usual mistakes that beginner Python coders make and will be able to help more in that area.
 # Before doing exercises 2 to 4 below, be aware of the errors that you encounter
 # For each exercise below, list down some of the errors you saw (developers usually call this error "bug")
 # What did you do to solve the error?
@@ -48,17 +50,16 @@
 
 
 
-
+# ==================================================================================================================================
 # Exercise 4.) APPLYING THE "while" LOOP
-# BONUS EXERCISE
-# You don't have to do this if you don't want, just if you are up to the challenge
-# Also, don't be surprised if it is a bit harder than the normal exercises, you might need to do some research on your own to solve it.
-
-# Bonus 1.)
-# Create a variable to store the value of pi and use it to print the following sentence:
-# "The value of pi is 3.14" (hint: joining floats and strings is not as simple as two strings, but you could google it, for example "how to join a float and a string in python")
+# Do you have a bicycle that has flat tyre. Imagine pumping up its tyre. Its inflation percentage is currently 20.
+# Write a few codes that will do the following until the inflation percentage <100:
+# Output "PUMP TYRE"
+# Each time you pump the tyre, you add 10 to the inflation percentage
+# Output "Tyre inflation percentage " and the new inflation percentage after you pumped some air
 
 # ------ ADD YOUR CODE BELOW: ------
+
 
 
 
